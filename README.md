@@ -1,5 +1,5 @@
 # 👨‍💻 Nicolas Alves
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo Nicolas Alves de Santana, tenho 19 anos e sou do estado de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFECAF. Sou apaixonado por tecnologia e meu maior foco está em Python e automação de processos. Possuo experiência prática no desenvolvimento de scripts utilizando a biblioteca PyAutoGUI e Pandas, com foco na otimização de fluxos de trabalho e eliminação de tarefas manuais repetitivas em ambientes corporativos. 
 
