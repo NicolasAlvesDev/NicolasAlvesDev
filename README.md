@@ -1,76 +1,51 @@
-# 👨‍💻 Nicolas Alves
-**`Desenvolvedor Full-Stack`**
+<div align="center">
 
-Me chamo Nicolas Alves de Santana, tenho 19 anos e sou do estado de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFECAF. Sou apaixonado por tecnologia e meu maior foco está em Python e automação de processos. Possuo experiência prática no desenvolvimento de scripts utilizando a biblioteca PyAutoGUI e Pandas, com foco na otimização de fluxos de trabalho e eliminação de tarefas manuais repetitivas em ambientes corporativos. 
+# 👋 Olá, eu sou o Nicolas Alves
 
-<p align="left">
-    <a href="https://github.com/NicolasAlvesDev?tab=repositories">
-        <img 
-            alt="Meu Repositorio" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
-        />
-    </a>
-    </a> 
-    <a href="https://github.com/NicolasAlvesDev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/NicolasAlvesDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/NicolasAlvesDev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NicolasAlvesDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+### Desenvolvedor Back-End | Python & Flask
 
----
+</div>
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+Tenho 19 anos, sou de São Paulo e curso Análise e Desenvolvimento de Sistemas na UniFECAF (previsão de conclusão em 2027). Busco uma vaga de **estágio em desenvolvimento Full Stack**, unindo minha base técnica em Open Finance com visão analítica voltada a problemas de negócio.
 
+Construo sistemas web completos — com autenticação, banco de dados, testes e camadas de segurança de verdade, não só protótipos. Meu foco principal é **Python + Flask + PostgreSQL / React**, com experiência prática em:
 
+- 🏦 **Sistemas financeiros** — contas, cartões, transações, metas e orçamentos
+- 🔗 **Integração com Open Finance** (API Pluggy) — sincronização bancária real
+- 🔒 **Segurança de aplicações** — CSRF, rate limiting, multi-tenancy, integridade referencial, headers de segurança
+- 📊 **Análise de dados** — EDA em base de 50 mil clientes (Pandas), simulando redução de churn de 56,7% para 18,3%
+- 🤖 **Automação de processos (RPA)** — scripts com PyAutoGUI que reduziram tempo de cadastro manual em ~70%
 
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| 💰 **[Sistema Financeiro](#)** | Web app completo de gestão financeira pessoal/PJ: contas, cartões, metas, contas fixas, sincronização Open Finance (Pluggy), dashboard receitas vs. despesas (6 meses), multi-tenancy e testes automatizados (pytest + PostgreSQL real). |
+| 📉 **[Análise de Cancelamento de Clientes](https://github.com/NicolasAlvesDev/Analise-de-Cancelamento-de-Clientes)** | EDA em base de +50 mil clientes para identificar causas-raiz de churn — plano de ação simulou redução da taxa de cancelamento de 56,7% para 18,3%. |
+| ⚙️ **[Automação de Tarefas](https://github.com/NicolasAlvesDev/Automatizacao-de-Tarefas)** | Script RPA em Python que automatiza cadastro em sistemas web e processa ~2.000 registros por execução, reduzindo o trabalho manual em ~70%. |
+
+<div align="center">
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasalvesdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasalvesdesantana1@gmail.com)
+
+</div>
