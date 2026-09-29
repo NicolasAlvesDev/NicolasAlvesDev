@@ -39,7 +39,9 @@ Construo sistemas web completos — com autenticação, banco de dados, testes e
 
 | Projeto | Descrição |
 |---|---|
-| 💰 **[Sistema Financeiro](#)** | Web app completo de gestão financeira pessoal/PJ: contas, cartões, metas, contas fixas, sincronização Open Finance (Pluggy), dashboard receitas vs. despesas (6 meses), multi-tenancy e testes automatizados (pytest + PostgreSQL real). |
+| 💰 **[Sistema Financeiro](https://github.com/NicolasAlvesDev/sistema_financeiro)** | Web app completo de gestão financeira pessoal/PJ: contas, cartões, metas, contas fixas, sincronização Open Finance (Pluggy), dashboard receitas vs. despesas (6 meses), multi-tenancy e testes automatizados (pytest + PostgreSQL real). |
+| 🤖 **[ChatBot-IA](https://github.com/NicolasAlvesDev/ChatBot-IA)** | Chatbot em Python com Streamlit, integrando Groq SDK (Llama 3.1) e OpenAI API (GPT-3.5) com gerenciamento de contexto de conversa em tempo real. |
+| 📈 **[Previsão de Credit Score com ML](https://github.com/NicolasAlvesDev/Previsoes-com-Inteligencia-Artificial-e-Machine-Learning)** | Classificação de credit score de clientes com Scikit-Learn, comparando algoritmos como Random Forest e KNN. |
 | 📉 **[Análise de Cancelamento de Clientes](https://github.com/NicolasAlvesDev/Analise-de-Cancelamento-de-Clientes)** | EDA em base de +50 mil clientes para identificar causas-raiz de churn — plano de ação simulou redução da taxa de cancelamento de 56,7% para 18,3%. |
 | ⚙️ **[Automação de Tarefas](https://github.com/NicolasAlvesDev/Automatizacao-de-Tarefas)** | Script RPA em Python que automatiza cadastro em sistemas web e processa ~2.000 registros por execução, reduzindo o trabalho manual em ~70%. |
 
